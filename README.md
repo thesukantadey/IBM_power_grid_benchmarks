@@ -1,4 +1,4 @@
-# IBM_power_grid_benchmarks
+# IBM power grid benchmarks
 
 Available on: https://web.ece.ucsb.edu/~lip/PGBenchmarks/ibmpgbench.html
 
