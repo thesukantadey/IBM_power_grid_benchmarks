@@ -1,0 +1,24 @@
+The following data are the output of the md5sum on the original files included
+to insure that the files the user downloads are correct. On a Unix/Linux, you
+can run the md5sum command on the uncompressed files, and compare the result
+with the strings below to ensure correctness.
+
+
+54e896bc37c422e662213444bf467eb2  ibmpg1.gif
+f6867bbc87cd15fa05c9ccb58554e2c9  ibmpg1.solution
+033949515514232397464ac8304fea59  ibmpg1.spice
+dcb4083809b748545a7e23da7b86f07d  ibmpg2.gif
+d82e8ff62c8d2acf74966563ec59db5b  ibmpg2.solution
+488f77156a52a186e75b411c580d9191  ibmpg2.spice
+e1654f8958d95c1a5b90ed6121b7a8cb  ibmpg3.gif
+0f3ca69542ce402a86b878a1701378a3  ibmpg3.solution
+58c9816dac766ae0ba0fb275c4665601  ibmpg3.spice
+961ddff17cdd68764a6a66ce9ccbc395  ibmpg4.gif
+81e36c320e8417fece3ee32e0c4adf07  ibmpg4.solution
+71c3ee8062430b11861a97874a6929b1  ibmpg4.spice
+a527c27ccb850666f32821a41c6f9b26  ibmpg5.gif
+bf3f90c98c0784d88ea25acf6e76bd9a  ibmpg5.solution
+719b6993c38add21fa259b2a06899e36  ibmpg5.spice
+e5f4a110ad5521079845205c1b48ecdf  ibmpg6.gif
+faa959d1ea1d4537fc618ba303fb0ab7  ibmpg6.solution
+e03444e4c4252fcd938b4c2f1265d67a  ibmpg6.spice

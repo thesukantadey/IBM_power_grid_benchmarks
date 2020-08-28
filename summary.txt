@@ -1,0 +1,18 @@
+The following table, generated partially using the included Tcl script names
+stat.tcl, shows the relative complexity of the benchmarks in terms of
+component counts.  The column headings are:
+	i for current sources
+	n for nodes (total number, does not take shorts into account)
+	r for resistors (includes shorts)
+	s for shorts (zero values resistors and voltage sources)
+	v for voltage sources (includes shorts)
+	l for the number of metal levels included in the circuit
+
+name		i	n	r	s	v	l
+ibmpg1		10774	30638	30027	14208	14308	2
+ibmpg2		37926	127238	208325	1298	330	5
+ibmpg3		201054	851584	1401572	461	955	5
+ibmpg4		276976	953583	1560645	11682	962	6
+ibmpg5		540800	1079310	1076848	606587	539087	3
+ibmpg6		761484	1670494	1649002	836107	836239	3
+
